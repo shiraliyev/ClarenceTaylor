@@ -1,0 +1,204 @@
+*{
+    margin:0 ;
+    padding:0 ;
+}
+ /* aside ---------------------------------------- start */
+.aside{
+    background-color: #BD5D38;
+    position: fixed;
+    width: 22vw;
+    height: 100vh; 
+    border: none;
+}
+.aside1{
+    text-align: center;
+    padding: 30% 0%;
+}
+.aside1 img{
+    width: 10vw;
+    height: 23vh;
+    border-radius: 50vh;  
+}
+.aside2{
+    color: #fff;
+    text-align: center;  
+}
+.aside2 ul li{
+    padding: 3% 0%;
+}
+.aside2 ul li a {
+    color: #E1B6A5;
+    text-decoration: none;
+    font-size: 3vh;   
+}
+.aside2 ul li a:hover{
+    color: #fff;
+}
+/* aside ---------------------------------------- End */
+/* main ---------------------------------------- start */
+.main{
+    margin-left: 27%;
+}
+/* section 1 ---------------------------------------- start */
+.sec1{
+    padding: 13% 0%;
+}
+.sec1 h1{
+    font-size: 8vh;
+    color:#343A40 ;
+}
+.sec1 h1 span{
+    color: #BD5D38;
+}
+.sec1 h3{
+    color: #6C7592;
+    font-size: 3.5vh ;
+}
+.sec1 h3 span a{
+    color: #BD5D38;
+    transition: 0.5s;
+}
+.sec1 h3 span a:hover{
+ color: #343A40;
+}
+.sec1 p{
+    padding: 7% 0% ;
+    color: #6C7592;
+    font-size: 3vh;
+}
+.sec1 i{
+    width: 13vh;
+    font-size: 9vh;
+    color: #7A8489;
+    padding-bottom: 6vh;
+    padding-top: 6vh;
+    transition: 1.3s;
+    cursor: pointer;
+}
+.sec1 i:hover{
+    color: #BD5D38;
+}
+/* section1 ---------------------------------------- End */
+/* section2 ---------------------------------------- Start */
+ .sec2{
+    padding: 4% 0%;
+ }
+
+ .sec2 h2{
+  font-size: 6vh;
+  padding: 6% 0%;
+  color: #343A40;
+ }
+ .sec2 h4{
+     color: #343A40;
+     font-size: 4vh;
+ }
+ .sec2 h5{
+    font-size: 4vh;
+    color: #7A8489;
+ }
+ .sec2  h6{ 
+    font-size: 3vh;
+    color: #E1B6A5;
+ }
+
+ .sec2  p {
+    padding: 4% 0%;
+    color: #7A8489;
+ }
+/* section2 ---------------------------------------- End */
+/* section3 ---------------------------------------- Start */
+.sec3{
+    padding: 4% 0%;
+}
+.sec3 h2{
+    font-size: 6vh;
+  padding: 6% 0%;
+  color: #343A40;
+}
+.sec3 h4{
+    color: #343A40;
+     font-size: 4vh;
+}
+.sec3 h5{
+    font-size: 4vh;
+    color: #7A8489;
+}
+.sec3 h6{
+    font-size: 3vh;
+    color: #E1B6A5;
+}
+.sec3 p{
+    padding: 4% 0%;
+    color: #7A8489;
+}
+/* sec3 ---------------------------------------- End */
+/* sec4 ---------------------------------------- start */
+.sec4{
+    padding: 4% 0%;
+}
+.sec4 h2{
+    font-size: 6vh;
+  padding: 6% 0%;
+  color: #343A40;
+}
+.sec4 h4{
+    color: #343A40;
+     font-size: 4vh;
+}
+.sec4 h5{
+    font-size: 4vh;
+    color: #7A8489;
+    padding: 4% 0%;
+}
+.sec4 i {
+    width: 9vh;
+    font-size: 7vh;
+    color: #7A8489;
+    padding-bottom: 6vh;
+    padding-top: 6vh;
+}
+.sec4 ul li{
+    
+    color: #7A8489;
+    display: flex ;
+    
+}
+/* sec4 ---------------------------------------- End */
+/* sec5 ---------------------------------------- start */
+.sec5{
+    padding: 4% 0%;
+}
+.sec5 h2{
+    font-size: 6vh;
+  padding: 6% 0%;
+  color: #343A40;
+}
+.sec5 p{
+    padding: 4% 0%;
+    color: #7A8489;
+}
+/* sec5 ---------------------------------------- End */
+/* sec6 ---------------------------------------- start */
+.sec6{
+    padding: 4% 0%;
+}
+.sec6 h2{
+    font-size: 6vh;
+  padding: 6% 0%;
+  color: #343A40;
+}
+.sec6 ul li{
+    color: #7A8489;     
+    display: flex;
+    font-size: 3vh;
+}
+
+ .sec6 ul li i{
+    color: #7A8489; 
+    transition: 0.3s;
+ }
+ .sec6 ul li i:hover{
+    color: #BD5D38;
+}
+/* sec6 ---------------------------------------- End */
